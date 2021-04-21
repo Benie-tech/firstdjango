@@ -1,8 +1,0 @@
-*.pyc
-*~
-
-_pycache_
-myvenv
-db.splite3
-/static
-.DS_store
